@@ -23,10 +23,10 @@ The model demonstrates a strong predictive capability with the following key met
 This project is developed and optimized for an Ubuntu Linux environment. 
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/tv-sales-prediction.git
+   git clone https://github.com/Nowfil5/Advertising_sales.git
 2. Navigate to the directory:
-   cd tv-sales-prediction
+   cd Advertising_sales
 3. Install dependencies:
    pip install -r requirements.txt
 4. Run the primary analysis script:
-   python src/train_model.py
+   python main.py
